@@ -14,11 +14,11 @@ Compare model performance and identify the best predictor.
 
 👥 Team Members
 
-Priyansh Verma – Data Preprocessing, Model Training
+Priyansh Verma 
 
-Shivraj Rathore –  Model Evaluation, Visualization
+Shivraj Rathore 
 
-Jay Solanki -  Documentation,Exploratory Data Analysis
+Jay Solanki 
 
 ⚙️ Features
 
