@@ -14,9 +14,11 @@ Compare model performance and identify the best predictor.
 
 👥 Team Members
 
-Priyansh Verma – Data Preprocessing, Model Training, Documentation
+Priyansh Verma 
 
-Shivraj Rathore – Exploratory Data Analysis, Model Evaluation, Visualization
+Shivraj Rathore 
+
+Jay Solanki
 
 ⚙️ Features
 
