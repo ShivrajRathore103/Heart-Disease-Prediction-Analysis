@@ -4,7 +4,7 @@
 Heart disease is one of the leading causes of death worldwide. Early detection and prevention can save lives.
 This project applies Machine Learning (ML) techniques using Python to analyze patient health data and predict the likelihood of heart disease.
 
-The goal of this project is to:
+The goal of this project is to :
 
 Perform exploratory data analysis (EDA) on heart disease datasets.
 
